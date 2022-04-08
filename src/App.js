@@ -1,11 +1,13 @@
-function App() {
+import Navbar from "./Navbar";
+import Home from "./Home";
 
-  const title = 'Welcome to the Dojo Blog'
+function App() {
 
   return (
     <div className="App">
+      <Navbar />
       <div className="content">
-        <h1>{title}</h1>
+        <Home /> 
       </div>
     </div>
   );
