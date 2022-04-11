@@ -61,6 +61,7 @@
   font-size: 0.9em;
 }
 
+/* Blog Deatils */
 .blog-details h2 {
   font-size: 20px;
   color: #f1356d;
@@ -69,6 +70,16 @@
 
 .blog-details article {
   margin: 20px 0;
+}
+
+.blog-details button {
+  background-color: #f1356d;
+  color: white;
+  border: 0;
+  padding: 8px;
+  border-radius: 8px;
+  cursor: pointer;
+  margin-top: 20px;
 }
 
 /* Create a new blog post */
