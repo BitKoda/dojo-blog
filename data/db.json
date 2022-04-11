@@ -1,29 +1,28 @@
 {
-    "blogs": [
-        {
-            "id": 1,
-            "title": "Hacking Websites", 
-            "body": "On hacking websites with JavaScript...", 
-            "author": "Jamo" 
-        },
-        {
-            "id": 2,
-            "title": "A Beer Site", 
-            "body": "On the lots of different beers you can now buy online...", 
-            "author": "Deno"
-        },
-        { 
-            "id": 3,
-            "title": "Monetising your JavaScript Websites", 
-            "body": "In this article, we talk about how to make money from your JavaScript...", 
-            "author": "Jamo" 
-            
-        },
-        { 
-            "id": 4,
-            "title": "A Rum Site", 
-            "body": "A rum review website for officionados...", 
-            "author": "Big-Z"
-        }
-    ]
+  "blogs": [
+    {
+      "id": 1,
+      "title": "Hacking Websites",
+      "body": "On hacking websites with JavaScript...",
+      "author": "Jamo"
+    },
+    {
+      "id": 2,
+      "title": "A Beer Site",
+      "body": "On the lots of different beers you can now buy online...",
+      "author": "Deno"
+    },
+    {
+      "id": 3,
+      "title": "Monetising your JavaScript Websites",
+      "body": "In this article, we talk about how to make money from your JavaScript...",
+      "author": "Jamo"
+    },
+    {
+      "id": 4,
+      "title": "A Rum Site",
+      "body": "A rum review website for officionados...",
+      "author": "Big-Z"
+    }
+  ]
 }
